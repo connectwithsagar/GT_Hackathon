@@ -1,6 +1,7 @@
 # 🤖 **ContextRetail AI — The Smart Store Assistant**
 
 > **Tagline:** A context-aware AI shopping assistant that combines user behavior, store data, and real-time environmental signals to deliver highly personalized recommendations, just like a human retail associate, but smarter.
+> live --> https://huggingface.co/spaces/Sagar8528/Context_Retail_AI
 
 ---
 
